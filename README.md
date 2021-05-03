@@ -1,4 +1,4 @@
-# Conversor-moedas em Vue.js
+# currency-converter portfolio - Vue.js
 
 Project developed during the Front-end Developer Bootcamp (Vuejs module) provided by the Institute of Management and Information Technology.
 
