@@ -1,5 +1,6 @@
 # Conversor-moedas em Vue.js
-Projeto desenvolvido durante o Bootcamp de desenvolvedor Front-end (módulo Vuejs) fornecido pelo Instituto de Gestão e Tecnologia da Informação
+
+Project developed during the Front-end Developer Bootcamp (Vuejs module) provided by the Institute of Management and Information Technology.
 
 
 ## Project setup
